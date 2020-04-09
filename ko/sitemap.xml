@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/805bluebell/wlog/ko/categories/</loc>
+    <loc>https://805bluebell.github.io/wlog/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/805bluebell/wlog/en/categories/"
+                href="https://805bluebell.github.io/wlog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://github.com/805bluebell/wlog/ko/categories/"
+                href="https://805bluebell.github.io/wlog/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/805bluebell/wlog/ko/</loc>
+    <loc>https://805bluebell.github.io/wlog/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/805bluebell/wlog/en/"
+                href="https://805bluebell.github.io/wlog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://github.com/805bluebell/wlog/ko/"
+                href="https://805bluebell.github.io/wlog/ko/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/805bluebell/wlog/ko/series/</loc>
+    <loc>https://805bluebell.github.io/wlog/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/805bluebell/wlog/en/series/"
+                href="https://805bluebell.github.io/wlog/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://github.com/805bluebell/wlog/ko/series/"
+                href="https://805bluebell.github.io/wlog/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/805bluebell/wlog/ko/tags/</loc>
+    <loc>https://805bluebell.github.io/wlog/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/805bluebell/wlog/en/tags/"
+                href="https://805bluebell.github.io/wlog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://github.com/805bluebell/wlog/ko/tags/"
+                href="https://805bluebell.github.io/wlog/ko/tags/"
                 />
   </url>
   

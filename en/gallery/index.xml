@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Wlog</title>
-    <link>https://github.com/805bluebell/wlog/en/gallery/</link>
+    <link>https://805bluebell.github.io/wlog/en/gallery/</link>
     <description>Recent content in Galleries on Wlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/805bluebell/wlog/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://805bluebell.github.io/wlog/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Cartoon</title>
-        <link>https://github.com/805bluebell/wlog/en/gallery/cartoon/</link>
+        <link>https://805bluebell.github.io/wlog/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>805.bluebell@gmail.com (Pankaj)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://github.com/805bluebell/wlog/en/gallery/cartoon/</guid>
+        <guid>https://805bluebell.github.io/wlog/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Pankaj</dc:creator>
-        <media:content url="https://github.com/805bluebell/wlog/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://805bluebell.github.io/wlog/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -42,15 +42,15 @@
       
       <item>
         <title>Photo</title>
-        <link>https://github.com/805bluebell/wlog/en/gallery/photo/</link>
+        <link>https://805bluebell.github.io/wlog/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>805.bluebell@gmail.com (Pankaj)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://github.com/805bluebell/wlog/en/gallery/photo/</guid>
+        <guid>https://805bluebell.github.io/wlog/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Pankaj</dc:creator>
-        <media:content url="https://github.com/805bluebell/wlog/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://805bluebell.github.io/wlog/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
