@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Wlog</title>
-    <link>http://example.org/en/series/</link>
+    <link>https://github.com/805bluebell/wlog/en/series/</link>
     <description>Recent content in Series on Wlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>805.bluebell@gmail.com (Pankaj)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/en/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://github.com/805bluebell/wlog/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

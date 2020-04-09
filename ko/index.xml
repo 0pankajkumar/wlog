@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>http://example.org/ko/</link>
+    <link>https://github.com/805bluebell/wlog/ko/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>805.bluebell@gmail.com (Pankaj)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://github.com/805bluebell/wlog/ko/index.xml" rel="self" type="application/rss+xml" />
     
     
     
